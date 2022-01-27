@@ -1,16 +1,16 @@
 # Diabetes-predictor-ml
 
-Future talent ready Internship Project
-..........................................
+Future talent ready Internship Project <br>
+.......................................... <br>
 <p>MICROSOFT AZURE IN HEALTH INDUSTRY
-In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has diabetes or not.</p>
------------------------------------------------------------------------------------------------
-diabetes.csv contains the dataset used in the project.
-app.py is a final python file for the project.
-The python script can be executed in any code editor with custom input to predict heart disease.
+In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has diabetes or not.</p><br>
+-----------------------------------------------------------------------------------------------<br>
+diabetes.csv contains the dataset used in the project.<br>
+app.py is a final python file for the project.<br>
+The python script can be executed in any code editor with custom input to predict heart disease.<br>
 
--------------------------------------------------------------------------------------------------
-Core Azure services used :
+-------------------------------------------------------------------------------------------------<br>
+Core Azure services used :<br>
 1.Machine Learning <br>
 2.Key vault <br>
 3.Application Insights <br>
@@ -18,7 +18,7 @@ Core Azure services used :
 5.Container instances <br>
 6.Container registry <br>
 
---------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------<br>
 Features present in this dataset :
 
 Pregnancies: Number of times pregnant <br>
